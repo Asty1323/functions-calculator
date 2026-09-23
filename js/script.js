@@ -1,8 +1,8 @@
 // Skriv "use strict" herunder
-
+"use strict"
 function beregnSum(number1, number2) {
     // Funktionen skal beregne summen af de to tal og udskrive resultatet i konsollen, fx: "Summen af 15 og 27 er 42"
-
+function beregnDifference(number1, number2)
 }
 
 
