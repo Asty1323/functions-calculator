@@ -8,9 +8,9 @@ console.log(`summen er ${summen}`);
 
 }
 
-function beregnDiffence(number1, number2) {
-    let differnce = number1 - number2;
-    console.log(`differnce er ${differnce}`);
+function beregnDifference(number1, number2) {
+    let difference = number1 - number2;
+    console.log(`difference er ${difference}`);
 }
 
 
@@ -20,4 +20,4 @@ function beregnDiffence(number1, number2) {
 
 // Kald begge funktioner herunder med to selvvalgte tal, så du selv kan se i konsollen, om dine funktioner virker
 beregnSum(27,15);
-beregnDiffernce(20, 15); 
+beregnDifference(20, 15); 
